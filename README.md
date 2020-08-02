@@ -8,6 +8,8 @@
 - Ma, Jianxin, et al. [Disentangled Self-Supervision in Sequential Recommenders.](http://pengcui.thumedialab.com/papers/DisentangledSequentialRecommendation.pdf). KDD. 2020
 - Wu, Jibang, Renqin Cai, and Hongning Wang. [Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation.](https://arxiv.org/pdf/2002.00741.pdf) The Web Conference 2020.
 - Li, Jiacheng, Yujie Wang, and Julian McAuley. [Time Interval Aware Self-Attention for Sequential Recommendation.](https://cseweb.ucsd.edu/~jmcauley/pdfs/wsdm20b.pdf) WSDM. 2020.
+- Ye, Wenwen, et al. [Time Matters: Sequential Recommendation with Complex Temporal Information.](https://dl.acm.org/doi/abs/10.1145/3397271.3401154) SIGIR. 2020.
+
 
 ## Other Useful Resources
 [Sequential Rec. Code](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/sequentialRec)
