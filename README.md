@@ -10,7 +10,7 @@
 - Wu, Jibang, Renqin Cai, and Hongning Wang. [Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation.](https://arxiv.org/pdf/2002.00741.pdf) The Web Conference 2020.
 - Li, Jiacheng, Yujie Wang, and Julian McAuley. [Time Interval Aware Self-Attention for Sequential Recommendation.](https://cseweb.ucsd.edu/~jmcauley/pdfs/wsdm20b.pdf) WSDM. 2020.
 - Ye, Wenwen, et al. [Time Matters: Sequential Recommendation with Complex Temporal Information.](https://dl.acm.org/doi/abs/10.1145/3397271.3401154) SIGIR. 2020.
-- Liwei Wu, et al. [SSE-PT: Sequential Recommendation Via Personalized Transformer](https://dl.acm.org/doi/pdf/10.1145/3383313.3412258) RecSys. 2020
+- Liwei Wu, et al. [SSE-PT: Sequential Recommendation Via Personalized Transformer](https://dl.acm.org/doi/pdf/10.1145/3383313.3412258) RecSys. 2020 [bib](./bib_files/SSE-PT.bib)
 
 # Temporal Interaction Graph
 Zhang, Zhen, et al. [Learning Temporal Interaction Graph Embedding via Coupled Memory Networks.](https://dl.acm.org/doi/pdf/10.1145/3366423.3380076?casa_token=jQDfuykEgz8AAAAA:IoUaw2pIm_WW7RxZPo7O1KdUtWy2StHjSGpgSQ0nCF32Lwr3_M2By9_zbJkKrKBu-NDsIB-T1sc) Proceedings of The Web Conference 2020. 2020.
