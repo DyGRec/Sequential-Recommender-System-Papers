@@ -6,7 +6,7 @@
 - Tang, Jiaxi, and Ke Wang. [Personalized top-n sequential recommendation via convolutional sequence embedding.](https://arxiv.org/pdf/1809.07426.pdf) WSDM. 2018.
 - Wang-Cheng Kang, Julian McAuley. [Self-Attentive Sequential Recommendation](https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm18.pdf), ICDM. 2018.
 - You, Jiaxuan, et al. [Hierarchical temporal convolutional networks for dynamic recommender systems.](https://arxiv.org/pdf/1904.04381.pdf) The world wide web conference. 2019.
-- Ma, Jianxin, et al. [Disentangled Self-Supervision in Sequential Recommenders.](http://pengcui.thumedialab.com/papers/DisentangledSequentialRecommendation.pdf). KDD. 2020
+- Ma, Jianxin, et al. [Disentangled Self-Supervision in Sequential Recommenders.](http://pengcui.thumedialab.com/papers/DisentangledSequentialRecommendation.pdf). KDD. 2020 [CITE](./bib_files/disentangle.bib)
 - Wu, Jibang, Renqin Cai, and Hongning Wang. [Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation.](https://arxiv.org/pdf/2002.00741.pdf) The Web Conference 2020.
 - Li, Jiacheng, Yujie Wang, and Julian McAuley. [Time Interval Aware Self-Attention for Sequential Recommendation.](https://cseweb.ucsd.edu/~jmcauley/pdfs/wsdm20b.pdf) WSDM. 2020. [CITE](./bib_files/Time_Interval.bib)
 - Ye, Wenwen, et al. [Time Matters: Sequential Recommendation with Complex Temporal Information.](https://dl.acm.org/doi/pdf/10.1145/3397271.3401154?casa_token=B-A6CsmuPiwAAAAA:cUV0AptqcwC5lA5wrVSUmHsGV978bBsDS4v_ZgbFrEy-0g6yNDhoYava4G7QA-zR38hOT07Ruuut) SIGIR. 2020.
