@@ -13,8 +13,8 @@
 - Liwei Wu, et al. [SSE-PT: Sequential Recommendation Via Personalized Transformer](https://dl.acm.org/doi/pdf/10.1145/3383313.3412258) RecSys. 2020 [CITE](./bib_files/SSE-PT.bib)
 
 # Temporal Interaction Graph
-Nguyen, Giang Hoang, et al. [Continuous-time dynamic network embeddings.](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf) The Web Conference 2018.[CITE](./bib_files/CTDNE.bib)
-Zhang, Zhen, et al. [Learning Temporal Interaction Graph Embedding via Coupled Memory Networks.](https://dl.acm.org/doi/pdf/10.1145/3366423.3380076?casa_token=jQDfuykEgz8AAAAA:IoUaw2pIm_WW7RxZPo7O1KdUtWy2StHjSGpgSQ0nCF32Lwr3_M2By9_zbJkKrKBu-NDsIB-T1sc) Proceedings of The Web Conference 2020. 2020.
+- Nguyen, Giang Hoang, et al. [Continuous-time dynamic network embeddings.](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf) The Web Conference 2018.[CITE](./bib_files/CTDNE.bib)
+- Zhang, Zhen, et al. [Learning Temporal Interaction Graph Embedding via Coupled Memory Networks.](https://dl.acm.org/doi/pdf/10.1145/3366423.3380076?casa_token=jQDfuykEgz8AAAAA:IoUaw2pIm_WW7RxZPo7O1KdUtWy2StHjSGpgSQ0nCF32Lwr3_M2By9_zbJkKrKBu-NDsIB-T1sc) Proceedings of The Web Conference 2020. 2020.
 
 ## Other Useful Resources
 [Sequential Rec. Code](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/sequentialRec)
