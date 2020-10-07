@@ -11,6 +11,7 @@
 - Li, Jiacheng, Yujie Wang, and Julian McAuley. [Time Interval Aware Self-Attention for Sequential Recommendation.](https://cseweb.ucsd.edu/~jmcauley/pdfs/wsdm20b.pdf) WSDM. 2020. [CITE](./bib_files/Time_Interval.bib)
 - Ye, Wenwen, et al. [Time Matters: Sequential Recommendation with Complex Temporal Information.](https://dl.acm.org/doi/pdf/10.1145/3397271.3401154?casa_token=B-A6CsmuPiwAAAAA:cUV0AptqcwC5lA5wrVSUmHsGV978bBsDS4v_ZgbFrEy-0g6yNDhoYava4G7QA-zR38hOT07Ruuut) SIGIR. 2020.
 - Liwei Wu, et al. [SSE-PT: Sequential Recommendation Via Personalized Transformer](https://dl.acm.org/doi/pdf/10.1145/3383313.3412258) RecSys. 2020 [CITE](./bib_files/SSE-PT.bib)
+- Ji, Wendi, et al. [Hybrid Sequential Recommender via Time-aware Attentive Memory Network.](https://arxiv.org/pdf/2005.08598.pdf) CIKM 2020. [CITE](./bib_files/MTAM.bib)
 
 # Temporal Interaction Graph
 - Nguyen, Giang Hoang, et al. [Continuous-time dynamic network embeddings.](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf) The Web Conference 2018.[CITE](./bib_files/CTDNE.bib)
