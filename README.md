@@ -7,6 +7,7 @@
 - Wang-Cheng Kang, Julian McAuley. [Self-Attentive Sequential Recommendation](https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm18.pdf), ICDM. 2018.
 - Ying, Haochao, et al. [Sequential recommender system based on hierarchical attention network.](https://www.ijcai.org/Proceedings/2018/0546.pdf) IJCAI. 2018.
 - You, Jiaxuan, et al. [Hierarchical temporal convolutional networks for dynamic recommender systems.](https://arxiv.org/pdf/1904.04381.pdf) The world wide web conference. 2019.
+- Yu, Lu, et al. [Multi-order attentive ranking model for sequential recommendation.](https://www.aaai.org/ojs/index.php/AAAI/article/view/4516/4394) AAAI 2019.
 - Ma, Jianxin, et al. [Disentangled Self-Supervision in Sequential Recommenders.](http://pengcui.thumedialab.com/papers/DisentangledSequentialRecommendation.pdf). KDD. 2020 [CITE](./bib_files/disentangle.bib)
 - Wu, Jibang, Renqin Cai, and Hongning Wang. [Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation.](https://arxiv.org/pdf/2002.00741.pdf) The Web Conference 2020.
 - Li, Jiacheng, Yujie Wang, and Julian McAuley. [Time Interval Aware Self-Attention for Sequential Recommendation.](https://cseweb.ucsd.edu/~jmcauley/pdfs/wsdm20b.pdf) WSDM. 2020. [CITE](./bib_files/Time_Interval.bib)
