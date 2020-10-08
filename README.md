@@ -3,6 +3,7 @@
 - He, Ruining, and Julian McAuley. [Fusing similarity models with markov chains for sparse sequential recommendation.](https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm16a.pdf) IEEE ICDM. 2016.
 - Balázs Hidasi, etc. [Session-based Recommendations with Recurrent Neural Networks.](https://arxiv.org/abs/1511.06939) ICLR, 2016.
 - Wu, Chao-Yuan, et al. [Recurrent recommender networks.](https://dl.acm.org/doi/pdf/10.1145/3018661.3018689) WSDM. 2017.
+- Quadrana, Massimo, et al. [Personalizing session-based recommendations with hierarchical recurrent neural networks.](https://arxiv.org/pdf/1706.04148.pdf) RecSys 2017.
 - Tang, Jiaxi, and Ke Wang. [Personalized top-n sequential recommendation via convolutional sequence embedding.](https://arxiv.org/pdf/1809.07426.pdf) WSDM. 2018.
 - Wang-Cheng Kang, Julian McAuley. [Self-Attentive Sequential Recommendation](https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm18.pdf), ICDM. 2018.
 - Ying, Haochao, et al. [Sequential recommender system based on hierarchical attention network.](https://www.ijcai.org/Proceedings/2018/0546.pdf) IJCAI. 2018.
