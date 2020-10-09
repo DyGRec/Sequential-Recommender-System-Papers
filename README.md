@@ -19,6 +19,9 @@
 - Ji, Wendi, et al. [Hybrid Sequential Recommender via Time-aware Attentive Memory Network.](https://arxiv.org/pdf/2005.08598.pdf) CIKM 2020. [CITE](./bib_files/MTAM.bib)
 - Yifei Zhao, et al. [Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective.](https://dl.acm.org/doi/pdf/10.1145/3394486.3403329) KDD 2020
 
+## Survey on Sequential Recommendation
+- Quadrana, Massimo, Paolo Cremonesi, and Dietmar Jannach. [Sequence-aware recommender systems.](https://arxiv.org/pdf/1802.08452.pdf) ACM Computing Surveys (CSUR) 51.4 (2018): 1-36.
+
 # Temporal Interaction Graph
 - Nguyen, Giang Hoang, et al. [Continuous-time dynamic network embeddings.](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf) The Web Conference 2018.[CITE](./bib_files/CTDNE.bib)
 - Zhang, Zhen, et al. [Learning Temporal Interaction Graph Embedding via Coupled Memory Networks.](https://dl.acm.org/doi/pdf/10.1145/3366423.3380076?casa_token=jQDfuykEgz8AAAAA:IoUaw2pIm_WW7RxZPo7O1KdUtWy2StHjSGpgSQ0nCF32Lwr3_M2By9_zbJkKrKBu-NDsIB-T1sc) Proceedings of The Web Conference 2020. 2020.
