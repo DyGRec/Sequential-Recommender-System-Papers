@@ -4,6 +4,7 @@
 - Balázs Hidasi, etc. [Session-based Recommendations with Recurrent Neural Networks.](https://arxiv.org/abs/1511.06939) ICLR, 2016.
 - Wu, Chao-Yuan, et al. [Recurrent recommender networks.](https://dl.acm.org/doi/pdf/10.1145/3018661.3018689) WSDM. 2017.
 - Quadrana, Massimo, et al. [Personalizing session-based recommendations with hierarchical recurrent neural networks.](https://arxiv.org/pdf/1706.04148.pdf) RecSys 2017.
+- Tuan, Trinh Xuan, and Tu Minh Phuong. [3D convolutional networks for session-based recommendation with content features.](https://dl.acm.org/doi/pdf/10.1145/3109859.3109900?casa_token=oaw4-qd-PmAAAAAA:PM2QlalXJgAlmQ1M8oLoH6IlrXVaGRxx-9mmSZ4__Mi-r670-gW3dmNyyHoO4-2-9jcSRLVgadI) RecSys 2017.
 - Chen, Xu, et al. [Sequential recommendation with user memory networks.](https://dl.acm.org/doi/pdf/10.1145/3159652.3159668?casa_token=dwnjPirHUakAAAAA:15TKXBAZWzF7cXgAg0qWn8afEwjKVjMZUfQoYxb6KFWMqqYE-Jk1gc6EgWVM4cLJXqVD6Dcey6s) WSDM. 2018.
 - Tang, Jiaxi, and Ke Wang. [Personalized top-n sequential recommendation via convolutional sequence embedding.](https://arxiv.org/pdf/1809.07426.pdf) WSDM. 2018.
 - Wang-Cheng Kang, Julian McAuley. [Self-Attentive Sequential Recommendation](https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm18.pdf), ICDM. 2018.
