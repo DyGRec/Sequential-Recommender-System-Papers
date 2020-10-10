@@ -1,4 +1,4 @@
-# Temporal/Sequential Recommender System Papers
+# Sequential Recommender System Papers
 - Rendle, Steffen, Christoph Freudenthaler, and Lars Schmidt-Thieme. [Factorizing personalized markov chains for next-basket recommendation.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.461.6854&rep=rep1&type=pdf) WWW. 2010.
 - He, Ruining, and Julian McAuley. [Fusing similarity models with markov chains for sparse sequential recommendation.](https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm16a.pdf) IEEE ICDM. 2016.
 - Balázs Hidasi, etc. [Session-based Recommendations with Recurrent Neural Networks.](https://arxiv.org/abs/1511.06939) ICLR, 2016.
@@ -28,6 +28,9 @@
 # Temporal Interaction Graph
 - Nguyen, Giang Hoang, et al. [Continuous-time dynamic network embeddings.](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf) The Web Conference 2018.[CITE](./bib_files/CTDNE.bib)
 - Zhang, Zhen, et al. [Learning Temporal Interaction Graph Embedding via Coupled Memory Networks.](https://dl.acm.org/doi/pdf/10.1145/3366423.3380076?casa_token=jQDfuykEgz8AAAAA:IoUaw2pIm_WW7RxZPo7O1KdUtWy2StHjSGpgSQ0nCF32Lwr3_M2By9_zbJkKrKBu-NDsIB-T1sc) Proceedings of The Web Conference 2020. 2020.
+
+# Temporal Recommendation
+- Gao, Huiji, et al. [Exploring temporal effects for location recommendation on location-based social networks.](https://dl.acm.org/doi/pdf/10.1145/2507157.2507182?casa_token=HqN0SmOY0IAAAAAA:mKnXv5PWKdnNbWDiAkOsM7R0pQc6oq1ZIA5pUfxRwKrb1x1_i6zUyZ0EBNu0-Sezxqm98jFq79Y) RecSys. 2013.
 
 ## Other Useful Resources
 [Sequential Rec. Code](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/sequentialRec)
