@@ -28,6 +28,7 @@
 # Temporal Interaction Graph
 - Nguyen, Giang Hoang, et al. [Continuous-time dynamic network embeddings.](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf) The Web Conference 2018.[CITE](./bib_files/CTDNE.bib)
 - Zhang, Zhen, et al. [Learning Temporal Interaction Graph Embedding via Coupled Memory Networks.](https://dl.acm.org/doi/pdf/10.1145/3366423.3380076?casa_token=jQDfuykEgz8AAAAA:IoUaw2pIm_WW7RxZPo7O1KdUtWy2StHjSGpgSQ0nCF32Lwr3_M2By9_zbJkKrKBu-NDsIB-T1sc) Proceedings of The Web Conference 2020. 2020.
+- Xiang, Liang, et al. [Temporal recommendation on graphs via long-and short-term preference fusion.](https://dl.acm.org/doi/pdf/10.1145/1835804.1835896?casa_token=sXnMSlVllp0AAAAA:Op3oiJ4aw7Fyh-kwetwb0hPwjiKTNXBOQWvbbFGmvPqYgf6p0CbywFibcJITWN6qlO9nJ4du1Cw) KDD 2010.
 
 # Temporal Recommendation
 - Gao, Huiji, et al. [Exploring temporal effects for location recommendation on location-based social networks.](https://dl.acm.org/doi/pdf/10.1145/2507157.2507182?casa_token=HqN0SmOY0IAAAAAA:mKnXv5PWKdnNbWDiAkOsM7R0pQc6oq1ZIA5pUfxRwKrb1x1_i6zUyZ0EBNu0-Sezxqm98jFq79Y) RecSys. 2013.
