@@ -39,3 +39,6 @@
 
 ## Other Useful Resources
 [Sequential Rec. Code](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/sequentialRec)
+
+## Dataset
+https://www.biendata.xyz/competition/icmechallenge2019/data/
