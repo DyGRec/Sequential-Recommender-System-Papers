@@ -28,6 +28,7 @@
 - Qin, Jiarui, et al. [Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling](https://arxiv.org/pdf/1911.03883.pdf) WSDM 2020
 - Ziyang Wang, et al. [Global Context Enhanced Graph Neural Networks for Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401142?casa_token=ApAXWFNIP9YAAAAA:aeHrK0slKcgdm4unhnGntFNsHNEX6Atgd2hRr8tOdJ590zbhivJnFFv5mc9h6TdJnxkIJNM0bws) SIGIR 2020
 - Ruiyang Ren, et al. [Sequential Recommendation with Self-Attentive Multi-Adversarial Network](https://dl.acm.org/doi/pdf/10.1145/3397271.3401111) SIGIR 2020
+- Xu Xie, et al. [Contrastive Pre-training for Sequential Recommendation](https://arxiv.org/pdf/2010.14395.pdf) WWW 2021
 
 ## Survey on Sequential Recommendation
 - Quadrana, Massimo, Paolo Cremonesi, and Dietmar Jannach. [Sequence-aware recommender systems.](https://arxiv.org/pdf/1802.08452.pdf) ACM Computing Surveys (CSUR) 51.4 (2018): 1-36.
