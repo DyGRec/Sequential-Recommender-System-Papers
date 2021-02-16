@@ -19,16 +19,17 @@
 - Wu, Shu, et al. [Session-based recommendation with graph neural networks.](https://www.aaai.org/ojs/index.php/AAAI/article/view/3804/3682) AAAI. 2019.
 - Sun, Fei, et al. [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/abs/1904.06690) CIKM. 2019
 - Wu, Qitian, et al. [Dual Sequential Prediction Models Linking Sequential Recommendation and Information Dissemination](https://dl.acm.org/doi/pdf/10.1145/3292500.3330959) KDD. 2019
-- Ma, Jianxin, et al. [Disentangled Self-Supervision in Sequential Recommenders.](http://pengcui.thumedialab.com/papers/DisentangledSequentialRecommendation.pdf). KDD. 2020 [CITE](./bib_files/disentangle.bib)
 - Wu, Jibang, Renqin Cai, and Hongning Wang. [Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation.](https://arxiv.org/pdf/2002.00741.pdf) The Web Conference 2020.
 - Li, Jiacheng, Yujie Wang, and Julian McAuley. [Time Interval Aware Self-Attention for Sequential Recommendation.](https://cseweb.ucsd.edu/~jmcauley/pdfs/wsdm20b.pdf) WSDM. 2020. [CITE](./bib_files/Time_Interval.bib)
-- Ye, Wenwen, et al. [Time Matters: Sequential Recommendation with Complex Temporal Information.](https://dl.acm.org/doi/pdf/10.1145/3397271.3401154?casa_token=B-A6CsmuPiwAAAAA:cUV0AptqcwC5lA5wrVSUmHsGV978bBsDS4v_ZgbFrEy-0g6yNDhoYava4G7QA-zR38hOT07Ruuut) SIGIR. 2020.
-- Liwei Wu, et al. [SSE-PT: Sequential Recommendation Via Personalized Transformer](https://dl.acm.org/doi/pdf/10.1145/3383313.3412258) RecSys. 2020 [CITE](./bib_files/SSE-PT.bib)
-- Ji, Wendi, et al. [Hybrid Sequential Recommender via Time-aware Attentive Memory Network.](https://arxiv.org/pdf/2005.08598.pdf) CIKM 2020. [CITE](./bib_files/MTAM.bib)
-- Yifei Zhao, et al. [Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective.](https://dl.acm.org/doi/pdf/10.1145/3394486.3403329) KDD 2020
 - Qin, Jiarui, et al. [Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling](https://arxiv.org/pdf/1911.03883.pdf) WSDM 2020
-- Ziyang Wang, et al. [Global Context Enhanced Graph Neural Networks for Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401142?casa_token=ApAXWFNIP9YAAAAA:aeHrK0slKcgdm4unhnGntFNsHNEX6Atgd2hRr8tOdJ590zbhivJnFFv5mc9h6TdJnxkIJNM0bws) SIGIR 2020
+- Ye, Wenwen, et al. [Time Matters: Sequential Recommendation with Complex Temporal Information.](https://dl.acm.org/doi/pdf/10.1145/3397271.3401154?casa_token=B-A6CsmuPiwAAAAA:cUV0AptqcwC5lA5wrVSUmHsGV978bBsDS4v_ZgbFrEy-0g6yNDhoYava4G7QA-zR38hOT07Ruuut) SIGIR. 2020.
 - Ruiyang Ren, et al. [Sequential Recommendation with Self-Attentive Multi-Adversarial Network](https://dl.acm.org/doi/pdf/10.1145/3397271.3401111) SIGIR 2020
+- Liwei Wu, et al. [SSE-PT: Sequential Recommendation Via Personalized Transformer](https://dl.acm.org/doi/pdf/10.1145/3383313.3412258) RecSys. 2020 [CITE](./bib_files/SSE-PT.bib)
+- Yifei Zhao, et al. [Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective.](https://dl.acm.org/doi/pdf/10.1145/3394486.3403329) KDD 2020
+- Ziyang Wang, et al. [Global Context Enhanced Graph Neural Networks for Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401142?casa_token=ApAXWFNIP9YAAAAA:aeHrK0slKcgdm4unhnGntFNsHNEX6Atgd2hRr8tOdJ590zbhivJnFFv5mc9h6TdJnxkIJNM0bws) SIGIR 2020
+- Ma, Jianxin, et al. [Disentangled Self-Supervision in Sequential Recommenders.](http://pengcui.thumedialab.com/papers/DisentangledSequentialRecommendation.pdf). KDD. 2020 [CITE](./bib_files/disentangle.bib)
+- Ji, Wendi, et al. [Hybrid Sequential Recommender via Time-aware Attentive Memory Network.](https://arxiv.org/pdf/2005.08598.pdf) CIKM 2020. [CITE](./bib_files/MTAM.bib)
+- Kun Zhou, et al. [S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization](https://arxiv.org/pdf/2008.07873.pdf) CIKM 2020.
 - Xu Xie, et al. [Contrastive Pre-training for Sequential Recommendation](https://arxiv.org/pdf/2010.14395.pdf) WWW 2021
 
 ## Survey on Sequential Recommendation
