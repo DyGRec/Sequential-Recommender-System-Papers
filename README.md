@@ -3,9 +3,9 @@
 |--------|-------|-------|-------|
 [Factorizing personalized markov chains for next-basket recommendation.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.461.6854&rep=rep1&type=pdf) | WWW | 2010 | code |
 | [Fusing similarity models with markov chains for sparse sequential recommendation.](https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm16a.pdf)| IEEE ICDM | 2016 | code |
-- Balázs Hidasi, etc. [Session-based Recommendations with Recurrent Neural Networks.](https://arxiv.org/abs/1511.06939) ICLR, 2016.
-- Liu, Qiang, et al. [Context-aware sequential recommendation.](https://arxiv.org/abs/1609.05787) IEEE ICDM, 2016.
-- Wu, Chao-Yuan, et al. [Recurrent recommender networks.](https://dl.acm.org/doi/pdf/10.1145/3018661.3018689) WSDM. 2017.
+| [Session-based Recommendations with Recurrent Neural Networks.](https://arxiv.org/abs/1511.06939) | ICLR | 2016 | Code |
+| [Context-aware sequential recommendation.](https://arxiv.org/abs/1609.05787) | IEEE ICDM | 2016 | Code |
+| [Recurrent recommender networks.](https://dl.acm.org/doi/pdf/10.1145/3018661.3018689) | WSDM | 2017 | Code |
 - Quadrana, Massimo, et al. [Personalizing session-based recommendations with hierarchical recurrent neural networks.](https://arxiv.org/pdf/1706.04148.pdf) RecSys 2017.
 - Tuan, Trinh Xuan, and Tu Minh Phuong. [3D convolutional networks for session-based recommendation with content features.](https://dl.acm.org/doi/pdf/10.1145/3109859.3109900?casa_token=oaw4-qd-PmAAAAAA:PM2QlalXJgAlmQ1M8oLoH6IlrXVaGRxx-9mmSZ4__Mi-r670-gW3dmNyyHoO4-2-9jcSRLVgadI) RecSys 2017.
 - Li, Jing, et al. [Neural attentive session-based recommendation.](https://dl.acm.org/doi/pdf/10.1145/3132847.3132926?casa_token=p-UU3TxH3W0AAAAA:n8g1DKgwpJUOg5HhUhVNjzcT1hyftFAN7IThuOTYuAUIFJGUIdfsPADjulXugIIvjGD5BN0qvt8y) CIKM. 2017.
