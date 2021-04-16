@@ -31,8 +31,7 @@
 | [Neural attentive session-based recommendation.](https://dl.acm.org/doi/pdf/10.1145/3132847.3132926?casa_token=p-UU3TxH3W0AAAAA:n8g1DKgwpJUOg5HhUhVNjzcT1hyftFAN7IThuOTYuAUIFJGUIdfsPADjulXugIIvjGD5BN0qvt8y) | CIKM                          | 2017 | Code      
 | [Fusing similarity models with markov chains for sparse sequential recommendation.](https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm16a.pdf) | IEEE ICDM                     | 2016 | Code                                  |
 | [Session-based Recommendations with Recurrent Neural Networks.](https://arxiv.org/abs/1511.06939) | ICLR                     | 2016 | Code                                  |
-| [Context-aware sequential recommendation.](https://arxiv.org/abs/1609.05787) | IEEE ICDM                     | 2016 | Code                                  |
-                            |
+| [Context-aware sequential recommendation.](https://arxiv.org/abs/1609.05787) | IEEE ICDM                     | 2016 | Code |
 | [Factorizing personalized markov chains for next-basket recommendation.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.461.6854&rep=rep1&type=pdf) | WWW | 2010 | Code                                  |
 
 
