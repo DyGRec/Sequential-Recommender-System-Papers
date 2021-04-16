@@ -13,7 +13,7 @@
 | [Disentangled Self-Supervision in Sequential Recommenders.](http://pengcui.thumedialab.com/papers/DisentangledSequentialRecommendation.pdf) | SIGIR                         | 2020 | [CITE](./bib_files/disentangle.bib)   |
 | [Hybrid Sequential Recommender via Time-aware Attentive Memory Network.](https://arxiv.org/pdf/2005.08598.pdf) | CIKM                          | 2020 | [CITE](./bib_files/MTAM.bib)          |
 | [S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization.](https://arxiv.org/pdf/2008.07873.pdf) | CIKM                          | 2020 | Code                                  |
-| [Hierarchical temporal convolutional networks for dynamic recommender systems.](https://arxiv.org/pdf/1904.04381.pdf) | The world wide web conference | 2019 | Code                                  |
+| [Hierarchical temporal convolutional networks for dynamic recommender systems.](https://arxiv.org/pdf/1904.04381.pdf) | WWW | 2019 | Code                                  |
 | [Multi-order attentive ranking model for sequential recommendation.](https://www.aaai.org/ojs/index.php/AAAI/article/view/4516/4394) | AAAI                          | 2019 | Code                                  |
 | [A simple convolutional generative network for next item recommendation.](https://dl.acm.org/doi/pdf/10.1145/3289600.3290975?casa_token=J1syrbahjloAAAAA:VbCRffYiUm4wqFaZjuxkTB0PiCMswTUAVHb_yy3Yw262gG_r_if1wD1f6gJ-PoGKulKriSDqLDM) | WSDM                          | 2019 | Code                                  |
 | [Session-based recommendation with graph neural networks.](https://www.aaai.org/ojs/index.php/AAAI/article/view/3804/3682) | AAAI                          | 2019 | Code                                  |
