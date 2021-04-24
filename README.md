@@ -1,6 +1,7 @@
 # Sequential Recommender System Papers
 | Title                                                        | Venue | Year | Code |
 | ------------------------------------------------------------ | ----- | ---- | ------------------------------------- |
+| [Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation](https://arxiv.org/pdf/2103.10693.pdf) | The Web | 2021 | [Code](https://github.com/ACVAE/ACVAE-PyTorch) |
 | [Contrastive Pre-training for Sequential Recommendation.](https://arxiv.org/pdf/2010.14395.pdf) | arxiv                           | 2021 | Code |
 | [Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation.](https://arxiv.org/pdf/2002.00741.pdf) | The Web  | 2020 | Code                                  |
 | [Time Interval Aware Self-Attention for Sequential Recommendation.](https://cseweb.ucsd.edu/~jmcauley/pdfs/wsdm20b.pdf) | WSDM | 2020 | [CITE](./bib_files/Time_Interval.bib) |
