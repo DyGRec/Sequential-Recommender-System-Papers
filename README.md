@@ -1,9 +1,9 @@
 # Sequential Recommender System Papers
 | Title                                                        | Venue | Year | Code |
 | ------------------------------------------------------------ | ----- | ---- | ------------------------------------- |
-| [Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation](https://arxiv.org/pdf/2103.10693.pdf) | The Web | 2021 | [Code](https://github.com/ACVAE/ACVAE-PyTorch) |
+| [Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation](https://arxiv.org/pdf/2103.10693.pdf) | TheWeb | 2021 | [Code](https://github.com/ACVAE/ACVAE-PyTorch) |
 | [Contrastive Pre-training for Sequential Recommendation.](https://arxiv.org/pdf/2010.14395.pdf) | arxiv                           | 2021 | Code |
-| [Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation.](https://arxiv.org/pdf/2002.00741.pdf) | The Web  | 2020 | Code                                  |
+| [Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation.](https://arxiv.org/pdf/2002.00741.pdf) | TheWeb  | 2020 | Code                                  |
 | [Time Interval Aware Self-Attention for Sequential Recommendation.](https://cseweb.ucsd.edu/~jmcauley/pdfs/wsdm20b.pdf) | WSDM | 2020 | [CITE](./bib_files/Time_Interval.bib) |
 | [Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling](https://arxiv.org/pdf/1911.03883.pdf) | WSDM  | 2020 | Code                                  |
 | [Time Matters: Sequential Recommendation with Complex Temporal Information.](https://dl.acm.org/doi/pdf/10.1145/3397271.3401154?casa_token=B-A6CsmuPiwAAAAA:cUV0AptqcwC5lA5wrVSUmHsGV978bBsDS4v_ZgbFrEy-0g6yNDhoYava4G7QA-zR38hOT07Ruuut) | SIGIR | 2020 | Code                                  |
