@@ -1,3 +1,4 @@
+This is a repo containing a list of sequential recommendation papers. Currently, we have not distinguished session-based recommendation and sequential recommendation. We may further separate them.  
 # Sequential Recommender System Papers
 | Title                                                        | Venue | Year | Code |
 | ------------------------------------------------------------ | ----- | ---- | ------------------------------------- |
