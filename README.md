@@ -2,6 +2,7 @@ This is a repo containing a list of sequential recommendation papers. Currently,
 # Sequential Recommender System Papers
 | Title                                                        | Venue | Year | Code |
 | ------------------------------------------------------------ | ----- | ---- | ------------------------------------- |
+| [Sequential Recommendation for Cold-start Users with Meta Transitional Learning](Nan) | SIGIR | 2021 | [Code](Nan) |
 | [Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation](https://arxiv.org/pdf/2103.10693.pdf) | TheWeb | 2021 | [Code](https://github.com/ACVAE/ACVAE-PyTorch) |
 | [Contrastive Pre-training for Sequential Recommendation.](https://arxiv.org/pdf/2010.14395.pdf) | arxiv                           | 2021 | Code |
 | [Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation.](https://arxiv.org/pdf/2002.00741.pdf) | TheWeb  | 2020 | Code                                  |
