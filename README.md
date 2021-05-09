@@ -5,6 +5,7 @@ This is a repo containing a list of sequential recommendation papers. Currently,
 | [Sequential Recommendation for Cold-start Users with Meta Transitional Learning](Nan) | SIGIR | 2021 | [Code](Nan) |
 | [Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation](https://arxiv.org/pdf/2103.10693.pdf) | TheWeb | 2021 | [Code](https://github.com/ACVAE/ACVAE-PyTorch) |
 | [Contrastive Pre-training for Sequential Recommendation.](https://arxiv.org/pdf/2010.14395.pdf) | arxiv                           | 2021 | Code |
+| [Cold-start Sequential Recommendation via Meta Learner.](https://arxiv.org/pdf/2012.05462.pdf) | AAAI                           | 2021 | Code |
 | [Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation.](https://arxiv.org/pdf/2002.00741.pdf) | TheWeb  | 2020 | Code                                  |
 | [Time Interval Aware Self-Attention for Sequential Recommendation.](https://cseweb.ucsd.edu/~jmcauley/pdfs/wsdm20b.pdf) | WSDM | 2020 | [CITE](./bib_files/Time_Interval.bib) |
 | [Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling](https://arxiv.org/pdf/1911.03883.pdf) | WSDM  | 2020 | Code                                  |
