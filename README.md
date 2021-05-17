@@ -8,6 +8,7 @@ This is a repo containing a list of sequential recommendation papers. Currently,
 | [Contrastive Pre-training for Sequential Recommendation.](https://arxiv.org/pdf/2010.14395.pdf) | arxiv                           | 2021 | Code |
 | [Cold-start Sequential Recommendation via Meta Learner.](https://arxiv.org/pdf/2012.05462.pdf) | AAAI                           | 2021 | Code |
 | [Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation.](https://arxiv.org/pdf/2002.00741.pdf) | TheWeb  | 2020 | Code                                  |
+| [Adaptive Hierarchical Translation-based Sequential Recommendation.](https://dl.acm.org/doi/pdf/10.1145/3366423.3380067) | TheWeb  | 2020 | Code                                  |
 | [Time Interval Aware Self-Attention for Sequential Recommendation.](https://cseweb.ucsd.edu/~jmcauley/pdfs/wsdm20b.pdf) | WSDM | 2020 | [CITE](./bib_files/Time_Interval.bib) |
 | [Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling](https://arxiv.org/pdf/1911.03883.pdf) | WSDM  | 2020 | Code                                  |
 | [Time Matters: Sequential Recommendation with Complex Temporal Information.](https://dl.acm.org/doi/pdf/10.1145/3397271.3401154?casa_token=B-A6CsmuPiwAAAAA:cUV0AptqcwC5lA5wrVSUmHsGV978bBsDS4v_ZgbFrEy-0g6yNDhoYava4G7QA-zR38hOT07Ruuut) | SIGIR | 2020 | Code                                  |
